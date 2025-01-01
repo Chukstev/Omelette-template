@@ -50,7 +50,7 @@ section h3 {
   display: flex;
   justify-content: space-between;
   align-content: center;
-  padding: 0 160px 0 15px;
+  padding: 0 140px 0 15px;
 }
 .tint {
   color: var(--color-1);
@@ -85,5 +85,11 @@ section h3 {
   }
   .mob {
     padding: 25px;
+  }
+  .nutrient {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 0 140px 0 15px;
   }
 }
